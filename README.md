@@ -3,40 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple HTML Page</title>
+    <title>Two-Line Header</title>
 </head>
 <body>
 
     <header>
-        <h1>Welcome to My Simple Webpage</h1>
+        <h1>MY SIMPLE</h1>
+        <h2>WEBSITE</h2>
     </header>
-
-    <nav>
-        <ul>
-            <li><a href="#section1">Section 1</a></li>
-            <li><a href="#section2">Section 2</a></li>
-            <li><a href="#section3">Section 3</a></li>
-        </ul>
-    </nav>
-
-    <section id="section1">
-        <h2>Section 1</h2>
-        <p>This is the content of Section 1.</p>
-    </section>
-
-    <section id="section2">
-        <h2>Section 2</h2>
-        <p>This is the content of Section 2.</p>
-    </section>
-
-    <section id="section3">
-        <h2>Section 3</h2>
-        <p>This is the content of Section 3.</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2023 My Simple Webpage</p>
-    </footer>
 
 </body>
 </html>
